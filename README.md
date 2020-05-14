@@ -2,7 +2,7 @@
 
 https://github.com/project-aircnc/request/
 
-
+기능적 요구사항.
 
 1. 의뢰자는 분석 의뢰를 요청한다.
 2. 의뢰를 취소한다.
@@ -14,7 +14,7 @@ https://github.com/project-aircnc/request/
 8. 분석을 완료하면 의뢰서 상태를 변경한다. 
 
 
-비기능적 요구사항.
+- 비기능적 요구사항.
 
 의뢰와 분석은 따로 분리되어 있어야 한다.
 
